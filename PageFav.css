@@ -1,0 +1,61 @@
+
+a:link {
+  color: rgb(0, 0, 0);
+ }
+ 
+ a:visited {
+  color: rgb(0, 0, 0);
+ }
+ 
+ h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+ }
+ 
+ .app-title {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+ }
+ 
+ .app-logo {
+  width: 1500px;
+  height: 600px;
+ }
+ 
+ .app-button {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  font-size:16px;
+  margin:4px 2px;
+  cursor:pointer;
+  border-radius:20px; 
+ }
+ 
+ .app {
+  position:relative; 
+ }
+ 
+.flex-container {
+  display: flex;
+  background-color: lightgray;
+}
+
+.flex-item {
+  flex: 1;
+  margin: 10px;
+  padding: 20px;
+}
+/* PageFav.css */
+body {
+  background-color: beige;
+}
